@@ -1,5 +1,3 @@
-package com.citrisky;
-
 /*
 NOTE: Before running, make sure that the media 
 path for audio is correct. 
